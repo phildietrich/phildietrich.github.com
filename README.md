@@ -15,8 +15,8 @@ My personal repository
 <body>
 <!-- Header -->
 <div class="header">
-<h1>My Name</h1>
-<p>A web developer and designer</p>
+<h1>Phil Dietrich</h1>
+<p>A TUV certified Functional Safety Engineer with 13 years experience in delivering automotive safety critical electronics</p>
 </div>
 <!-- Navigation bar -->
 <div class="navbar">
